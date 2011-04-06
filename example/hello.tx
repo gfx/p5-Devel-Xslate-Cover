@@ -1,0 +1,6 @@
+Hello, world!
+: if $foo {
+    THIS LINE IS NOT EXECUTED.
+: }
+Enjoy Perl!
+
